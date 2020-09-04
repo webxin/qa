@@ -9,3 +9,4 @@ aaaaa
 Create a new branch feature1
 master branch
 add dev branch
+add dev merge fast
